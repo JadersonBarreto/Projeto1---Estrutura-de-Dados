@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1534348237 source:/home/jaderson/Documentos/Universidade/Semestre 2018.2/Estrutura de Dados/Unidade 1/Projeto1/main.cpp
+	<iostream>
+	"ListaCandidatos.h"
+
+1533391795 /home/jaderson/Documentos/Universidade/Semestre 2018.2/Estrutura de Dados/Unidade 1/Projeto1/include/Candidato.h
+	<cstring>
+	<sstream>
+
+1533906151 /home/jaderson/Documentos/Universidade/Semestre 2018.2/Estrutura de Dados/Unidade 1/Projeto1/include/NoCandidato.h
+	<cstring>
+	<sstream>
+	"Candidato.h"
+
+1534414174 /home/jaderson/Documentos/Universidade/Semestre 2018.2/Estrutura de Dados/Unidade 1/Projeto1/include/ListaCandidatos.h
+	<cstring>
+	<sstream>
+	<fstream>
+	"NoCandidato.h"
+	"Candidato.h"
+
